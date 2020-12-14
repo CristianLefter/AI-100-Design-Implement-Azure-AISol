@@ -85,7 +85,7 @@ While the first lab focuses on the [Computer Vision](https://www.microsoft.com/c
 
 1. Select your subscription and resource group
 
-1. Type a name for your account, using your initials to make it unbique. **ai100storagego**
+1. Type a name for your account, using your initials to make it unique. **ai100storagego**
 
 1. For the location, select the same as your resource group
 
